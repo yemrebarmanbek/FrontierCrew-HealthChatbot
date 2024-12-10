@@ -9,6 +9,13 @@ FrontierCrew Health Chatbot
 Welcome to the FrontierCrew Health Chatbot repository! 🚀
 This project is an AI-powered chatbot tailored to the healthcare domain. It provides accurate, data-driven responses to health-related questions and is trained on a comprehensive dataset to ensure reliability and relevance.
 
+
+<img width="458" alt="Screenshot 2024-12-11 002544" src="https://github.com/user-attachments/assets/2fdbe480-f6bb-4f6b-811c-b48da9b69f7a">
+
+
+
+
+
 Features
 AI-Powered Insights: Utilizes advanced AI algorithms to understand and respond to health-related queries.
 Natural Language Processing (NLP): Enhanced conversational capabilities for seamless interaction.
