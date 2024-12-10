@@ -13,7 +13,9 @@ This project is an AI-powered chatbot tailored to the healthcare domain. It prov
 <img width="458" alt="Screenshot 2024-12-11 002544" src="https://github.com/user-attachments/assets/2fdbe480-f6bb-4f6b-811c-b48da9b69f7a">
 
 
+![WhatsApp Image 2024-12-10 at 23 33 24 (2)](https://github.com/user-attachments/assets/3b67388b-20b7-4103-a47f-102a9f0cb2e8)
 
+![WhatsApp Image 2024-12-10 at 23 33 24](https://github.com/user-attachments/assets/451f58ea-4f12-49e5-9702-35d3f3621a47)
 
 
 Features
